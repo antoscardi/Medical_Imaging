@@ -58,7 +58,7 @@ This project provides a **workflow for brain tumor segmentation** from MRI volum
 - Variations due to noise are minimal thanks to filtering.  
 - Manual correction improves the reliability of the outcome.  
 
-👉 For full details, run on Matlab [Medical Imaging.m](Medical Imaging.m).  
+👉 For full details, run on Matlab [Medical Imaging.m](Medical_Imaging.m).  
 
 ---
 
